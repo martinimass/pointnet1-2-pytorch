@@ -1,0 +1,16 @@
+Area_1/Area_1/Annotations
+Area_2/Area_2/Annotations
+Area_3/Area_3/Annotations
+Area_4/Area_4/Annotations
+Area_5/Area_5/Annotations
+Area_6/Area_6/Annotations
+Area_7/Area_7/Annotations
+Area_8/Area_8/Annotations
+Area_9/Area_9/Annotations
+Area_10/Area_10/Annotations
+Area_11/Area_11/Annotations
+Area_12/Area_12/Annotations
+Area_13/Area_13/Annotations
+Area_14/Area_14/Annotations
+Area_15/Area_15/Annotations
+Area_16/Area_16/Annotations

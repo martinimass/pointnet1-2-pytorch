@@ -1,0 +1,10 @@
+arc
+column
+moulding
+floor
+door-window
+wall
+stairs
+vault
+roof
+other
