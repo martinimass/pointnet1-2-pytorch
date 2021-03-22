@@ -1,7 +1,7 @@
 # Pytorch Implementation of PointNet and PointNet++   
 This repo is an implementation for [PointNet](http://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf) and [PointNet++](http://papers.nips.cc/paper/7095-pointnet-deep-hierarchical-feature-learning-on-point-sets-in-a-metric-space.pdf) in pytorch.  
 
-The following code is based on the implementation of [yanx27](https://github.com/yanx27/Pointnet_Pointnet2_pytorch/commits?author=yanx27 ), appropriately modified to use generic datasets. The original version was customised to use only the S3DIS dataset.
+The following code is based on the implementation of [yanx27](https://github.com/yanx27/Pointnet_Pointnet2_pytorch ), appropriately modified to use generic datasets. The original version was customised to use only the S3DIS dataset.
 
   
 ## Update  
